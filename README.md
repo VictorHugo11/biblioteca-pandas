@@ -1,2 +1,2 @@
-# estudos-pandas
+# biblioteca-pandas
 Estudos da biblioteca Pandas do bootcamp da DIOCancel changes
